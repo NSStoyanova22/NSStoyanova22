@@ -1,5 +1,18 @@
-### Hi there 👋
 
+
+# Hi there, pookies! 🤗
+
+Here is a little bit about me:
+- 🔭 Currently studying in PGKPI
+- 🌱 Learning new technologies and languages
+- 💬 Ask me about anything tech and art related 💕
+- 😢 dve pakentcheta chaii
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsstoyanova22&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsstoyanova22)
+<div  align="center">
+        <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif" alt="Description of the image"  width=200px >
+</div>
 <!--
 **NSStoyanova22/NSStoyanova22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
