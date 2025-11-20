@@ -1,12 +1,12 @@
 
 
-# Hi there, pookies! 🤗
+# Hi there, cuties! 🤗
 
 Here is a little bit about me:
 - 🔭 Currently studying in PGKPI
 - 🌱 Learning new technologies and languages
 - 💬 Ask me about anything tech and art related 💕
-- 😢 dve pakentcheta chaii
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsstoyanova22&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsstoyanova22)
